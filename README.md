@@ -1,12 +1,11 @@
-# Wordpress Project Starter
-
+# WPCreate
 Este proyecto te permite crear configuraciones de WordPress utilizando Docker. Puedes elegir entre diferentes tipos de configuraciones como **MySQL** o **MariaDB**.
 
 ## Instalación
 
 1. Clona este repositorio:
    ```bash
-   git clone https://bitbucket.org/simbiosys_es/wordpress-project-starter/src/develop/
+   git clone [ https://bitbucket.org/simbiosys_es/wordpress-project-starter/src/develop/](https://github.com/MiguelReyMenendez/wpcreate)
    cd wordpress-project-starter
    ```
 
