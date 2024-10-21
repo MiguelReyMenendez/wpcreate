@@ -1,0 +1,23 @@
+{
+  "name": "wordpress-project-starter",
+  "version": "1.0.0",
+  "description": "Script para gestionar la instalación de WordPress con Docker",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "wpcreate": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Miguel Rey - Simbiosys",
+  "license": "ISC",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "axios": "^1.7.7",
+    "inquirer": "^12.0.0",
+    "ora": "^8.1.0"
+  }
+}
